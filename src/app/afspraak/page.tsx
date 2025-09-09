@@ -257,7 +257,7 @@ export default function Afspraak() {
                                         <option value="psychosomatisch">Psychosomatische fysiotherapie</option>
                                         <option value="hoofdpijn">Hoofdpijn & Duizeligheid</option>
                                         <option value="hartrevalidatie">Hartrevalidatie</option>
-                                        <option value="beweging">Bewegingsprogramma's</option>
+                                        <option value="beweging">Bewegingsprogramma&apos;s</option>
                                     </select>
                                 </div>
 
