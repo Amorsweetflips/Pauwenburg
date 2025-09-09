@@ -1,7 +1,7 @@
+import PasswordProtection from '@/components/PasswordProtection'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
-import PasswordProtection from '@/components/PasswordProtection'
 
 const inter = Inter({ subsets: ['latin'] })
 
